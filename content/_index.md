@@ -16,24 +16,12 @@ sections:
     id: contact
     content:
       title: Contact
-      subtitle:
-      text:
       # Contact (add or remove contact options as necessary)
       email: aftoncoombs@gmail.com
       address:
         city: Los Angeles
         region: CA
         country: United States
-      # Automatically link email and phone or display as text?
-      autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
     design:
       columns: '2'
 ---
