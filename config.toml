@@ -1,0 +1,71 @@
+baseURL = "http://aftoncoombs.com/"
+languageCode = "en-us"
+title = "Afton Coombs"
+theme = 'gruvhugo'
+
+[params.main]
+  enabled = true
+  enableKatex = true
+  metaKeywords = "fast, hugo, theme, minimal, gruvbox"
+  headerTitle = "Afton Coombs"
+  name = "afton_coombs"
+  img = "img/mountain.jpeg"
+  img_title = ""
+  icon = "img/logo.png"
+  quote = "Data Scientist | Spotify"
+  description= "I’m a linguist-turned-data-scientist who dabbles in application development. My interests include data science tooling, data visualization, forecasting, experimentation, and text analytics. I also get really excited about fraud prevention, online safety, and generally keeping things safe. I’m a part-time student at Georgia Tech, where I’m currently researching student opportunities and outcomes. When I’m not working, you can probably find me practicing on the dance floor or in the studio. 👞🎵"
+  licenseUrl = ""
+  
+# Social icons
+    
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/aftonsteps"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/aftoncoombs"
+
+  [[params.social]]
+    name = "email"
+    url  = "mailto:aftoncoombs@gmail.com"
+
+  [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/aftonsteps"
+    
+    [[params.social]]
+    name = "mastodon"
+    url  = "https://mastodon.social/@aftonsteps"
+
+    [[params.social]]
+    name = "instagram"
+    url  = "https://www.instagram.com/afton.steps/"
+ 
+    [[params.social]]
+    name = "twitch"
+    url  = "https://www.twitch.tv/aftonsteps"
+    
+   #[[params.social]]
+   #name = "stackoverflow"
+   #url = "https://stackoverflow.com/users/8916690/aftonsteps"
+
+[menu]
+  [[menu.main]]
+    identifier = "experience"
+    name       = "Experience"
+    url        = "uploads/resume.pdf"
+    weight = 10
+
+#  [[menu.main]]
+    # identifier = "portfolio"
+    #name       = "Portfolio"
+    #url        = "portfolio"
+    #weight = 20
+
+  [[menu.main]]
+    identifier = "github"
+    name       = "Github"
+    url        = "https://www.github.com/aftonsteps"
+
+
