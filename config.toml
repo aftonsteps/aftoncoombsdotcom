@@ -12,8 +12,8 @@ theme = 'gruvhugo'
   img = "img/mountain.jpeg"
   img_title = ""
   icon = "img/logo.png"
-  quote = "Data Scientist | Spotify"
-  description= "I’m a linguist-turned-data-scientist who dabbles in application development. My interests include data science tooling, data visualization, forecasting, experimentation, and text analytics. I also get really excited about fraud prevention, online safety, and generally keeping things safe. I’m a part-time student at Georgia Tech, where I’m currently researching student opportunities and outcomes. When I’m not working, you can probably find me practicing on the dance floor or in the studio. 👞🎵"
+  quote = "Georgia Tech | Formerly Spotify, Hulu"
+  description= "My interests include data visualization, web design, interactive design, and eduation. I’m currently a student at Georgia Tech, where I’m specializing in interactive intelligence. I'm also working on research at GT concerned with student opportunities and outcomes. When I’m not working on software or data, you can often find me practicing my other love (👞👞🎵) on the dance floor or in the studio."
   licenseUrl = ""
   
 # Social icons
