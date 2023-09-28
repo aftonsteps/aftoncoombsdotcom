@@ -9,11 +9,11 @@ theme = 'gruvhugo'
   metaKeywords = "fast, hugo, theme, minimal, gruvbox"
   headerTitle = "Afton Coombs"
   name = "afton_coombs"
-  img = "img/mountain.jpeg"
+  img = "img/glasses.jpg"
   img_title = ""
   icon = "img/logo.png"
-  quote = "Georgia Tech | Formerly Spotify, Hulu"
-  description= "My interests include data visualization, web design, interactive design, and eduation. I’m currently a student at Georgia Tech, where I’m specializing in interactive intelligence. I'm also working on research at GT concerned with student opportunities and outcomes. When I’m not working on software or data, you can often find me practicing my other love (👞👞🎵) on the dance floor or in the studio."
+  quote = "PCC, Georgia Tech | Formerly Spotify, Hulu"
+  description= "My interests include data visualization, web design, interactive design, and eduation. I’m currently taking classes at Pasadena City College and at Georgia Tech, where I’m specializing in interactive intelligence. I'm also carrying out research at GT concerned with student opportunities and outcomes. When I’m not working on software or data, you can often find me practicing my other love (👞👞🎵) on the dance floor or in the studio."
   licenseUrl = ""
   
 # Social icons
@@ -54,14 +54,14 @@ theme = 'gruvhugo'
   [[menu.main]]
     identifier = "experience"
     name       = "Experience"
-    url        = "uploads/resume.pdf"
+    url        = "uploads/Afton Coombs Resume for Web.pdf"
     weight = 10
 
-#  [[menu.main]]
-    # identifier = "portfolio"
-    #name       = "Portfolio"
-    #url        = "portfolio"
-    #weight = 20
+  [[menu.main]]
+    identifier = "portfolio"
+    name       = "Portfolio"
+    url        = "uploads/portfolio.html"
+    weight = 20
 
   [[menu.main]]
     identifier = "github"
