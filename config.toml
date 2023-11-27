@@ -12,8 +12,8 @@ theme = 'gruvhugo'
   img = "img/glasses.jpg"
   img_title = ""
   icon = "img/logo.png"
-  quote = "PCC, Georgia Tech | Formerly Spotify, Hulu"
-  description= "My interests include data visualization, web design, interactive design, and eduation. I’m currently taking classes at Pasadena City College and at Georgia Tech, where I’m specializing in interactive intelligence. I'm also carrying out research at GT concerned with student opportunities and outcomes. When I’m not working on software or data, you can often find me practicing my other love (👞👞🎵) on the dance floor or in the studio."
+  quote = "Georgia Tech | Formerly Spotify, Hulu"
+  description= "Hi there! My name is Afton and I'm a data scientist, developer, artist, and educational researcher with eight years of experience in the field. I am currently enrolled as a master's student in computer science at the Georgia Institute of Technology while continuing to work part-time as a developer and data science consultant. My interests include machine learning, experimentation, data/analytics engineering, tooling development for data science, data visualization, and interactive design. While at GT, I am specializing in interactive intelligence and carrying out research concerned with student opportunities and outcomes in the field of computer science. When I’m not working on software or data, you can often find me practicing my other love (👞👞🎵) on the dance floor or in the studio."
   licenseUrl = ""
   
 # Social icons
